@@ -3,7 +3,8 @@
 pip install keras
 pip install theano
 
-cd /d C:\DL\LP-IV_DL_Practicals
+//%pip install tensorflow keras scikit-learn matplotlib numpy
+// cd /d C:\DL\LP-IV_DL_Practicals
 dl_env\Scripts\activate
 jupyter notebook
 
